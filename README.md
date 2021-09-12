@@ -20,10 +20,14 @@ Python 3
 
 Need to install the following modules:
 
-* Pandas
-* Scikit-learn
-* Numpy
-* os
+	pandas
+	numpy
+	sklearn
+	matplotlib
+	seaborn
+	joblib
+	os
+
 
 
 ### Execution
